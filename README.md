@@ -83,7 +83,7 @@ Created by **Mohamed Ibrahim** to gather every tool a user might need into a sin
 ### Bright Mode
 ![Bright Mode](screenshots/bright.png)
 
-> *Add screenshots to a `screenshots/` folder in the repository to display them here.*
+
 
 
 
